@@ -1,2 +1,0 @@
-# Quanta
-client website
