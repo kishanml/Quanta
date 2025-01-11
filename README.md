@@ -16,8 +16,3 @@ Quanta is a website developed for a client who is an algorithmic trader. The cli
 ## Development Timeline:
 The frontend of the website was developed in May 2023. It has been designed with a focus on simplicity and interactivity.
 
-## Site Demo:
-The client wants to make the site publicly accessible, and I’m hosting it here for demonstration purposes.
-
-[Site Link](https://kishanml.github.io/Quanta/)
- 
