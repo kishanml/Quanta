@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Quanta/static/css/main.f213084b.css",
+    "main.js": "/Quanta/static/js/main.9dfa680a.js",
+    "static/media/qr299.png": "/Quanta/static/media/qr299.dc1f308426c3d5de4b9d.png",
+    "static/media/qr499.png": "/Quanta/static/media/qr499.806cdbad5bbfb587548c.png",
+    "static/media/qr99.png": "/Quanta/static/media/qr99.e5f34a00f4d6c9894a72.png",
+    "static/media/nav_logo.png": "/Quanta/static/media/nav_logo.032cdf34bd427c6c7263.png",
+    "static/media/success.png": "/Quanta/static/media/success.6776e7dbfd58b183ee46.png",
+    "index.html": "/Quanta/index.html",
+    "main.f213084b.css.map": "/Quanta/static/css/main.f213084b.css.map",
+    "main.9dfa680a.js.map": "/Quanta/static/js/main.9dfa680a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f213084b.css",
+    "static/js/main.9dfa680a.js"
+  ]
+}
